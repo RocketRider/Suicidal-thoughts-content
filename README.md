@@ -1,2 +1,4 @@
-# Suicidal-thoughts-content
-Content for the Suicidal thoughts app
+# English content for suicidal thoughts app
+
+Contributors:
+- Michael Möbius(RocketRider)
