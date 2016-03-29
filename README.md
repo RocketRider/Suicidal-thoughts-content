@@ -1,2 +1,3 @@
-# Suicidal-thoughts-content
-Content for the Suicidal thoughts app
+# Deutscher Inhalt für Suicidal-thoughts App
+Unterstützer:
+- Michael Möbius(RocketRider)
