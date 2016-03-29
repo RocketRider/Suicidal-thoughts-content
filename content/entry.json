@@ -1,0 +1,15 @@
+{
+  "title": "Content",
+  "description": "Main content",
+  "content": "",
+  "image": "",
+  "icon": "",
+  "entries": [
+    {
+      "id": "content.people.nick_vujicic",
+    },
+    {
+      "id": "content.people.michael_moebius",
+    }
+  ]
+}
